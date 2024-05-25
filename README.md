@@ -1,6 +1,12 @@
 # What is Snakemake
 Snakemake is a workflow management system used primarily in bioinformatics and data science for defining and executing complex data analysis workflows. It is designed to facilitate reproducibility, scalability, and flexibility in scientific workflows. Here is a detailed explanation of Snakemake, covering its key features, components, and usage alongside with sptep by step guide for its setup.
 
+## Installation
+Snakemake is available on PyPi; therefor, it can easily be installed like this:
+```bash
+pip install snakemake
+```
+
 ## Organization of files and folders
 Using a specified folder structure helps to understand the project better. Therefore, it is recommended to follow some conventions in order to keep things nice and neat.
 
